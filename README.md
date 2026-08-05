@@ -2,11 +2,15 @@
 
 Backend-leaning software engineer in the making — I learn by shipping full projects, not just tutorials. Currently working through [boot.dev](https://boot.dev) while building real tools for real users (my friend group's Discord server counts and no one can tell me otherwise 😎).
 
-## 🔭 Currently Working On
-
+## 🔭 Projects
 [![Scuttlebuddy.lol](https://img.shields.io/badge/Scuttlebuddy.lol-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white)](https://www.scuttlebuddy.lol)
-
 - **[ScuttleBuddy](https://github.com/DingVersion3/league-discord-bot)** — A League of Legends Discord bot for my friend group, built with `discord.py`, `SQLite`, Riot API, and OP.GG MCP Server. Features a performance scoring system, OP.GG integrations, betting, leaderboards, and trivia. Deployed on a Ubuntu VPS. Currently deep in testing phase/application phase for Riot API.
+
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+- **[Shifting Grounds Tower Defense](https://github.com/DingVersion3/Shifting-Grounds-Tower-Defense)** — A multiplayer tower defense game built with `Pygame`, featuring a server-authoritative architecture, symmetric mirrored maps, tower syncing, and server-side wave management.
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- **[Brick Tamland Channel 5 Weather Bot](https://github.com/DingVersion3/weather-discord)** — A Discord weather bot with a news-anchor personality, built with `discord.py`.
 
 ## 🌱 Currently Learning
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-3B82F6?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://www.boot.dev/u/ding)
