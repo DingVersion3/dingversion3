@@ -32,7 +32,7 @@ I'm looking for **Backend / Software Engineer roles** — I enjoy building relia
 
 ## 📫 Get In Touch
 
-- **[Email](jakewilk10@gmail.com)**
+- **Email** jakewilk10@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/jake-wilkinson-3b07b89b/)**
 - **[Discord Server](https://discord.gg/Qu2Fp5h7VQ)**
 
