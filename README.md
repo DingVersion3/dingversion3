@@ -5,6 +5,7 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ## 🔭 Currently Working On
 
 - **[ScuttleBuddy](https://github.com/DingVersion3/league-discord-bot)** — A League of Legends Discord bot for my friend group, built with `discord.py`, `SQLite`, Riot API, and OP.GG MCP Server. Features a performance scoring system, OP.GG integrations, betting, leaderboards, and trivia. Deployed on a Ubuntu VPS. Currently deep in testing phase/application phase for Riot API.
+
 [![Scuttlebuddy.lol](https://img.shields.io/badge/Scuttlebuddy.lol-2ECC71?style=for-the-badge&logo=leagueoflegends&logoColor=white)](https://www.scuttlebuddy.lol)
 
 ## 🌱 Currently Learning
