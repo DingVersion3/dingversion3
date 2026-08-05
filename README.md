@@ -8,13 +8,14 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 - **[Shifting Grounds Tower Defense](https://github.com/DingVersion3/Shifting-Grounds-Tower-Defense)** — A multiplayer tower defense game built in Pygame, with a server-authoritative architecture, mirrored maps, tower syncing, and server-side wave management.
 
 ## 🌱 Currently Learning
-
-- **[Boot.dev](https://www.boot.dev/u/ding)**
-- JavaScript/TypeScript
-- File Servers and CDNs, AWS
-- Docker
-- Sub/Pub Architecture
-- Discord Activities
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-3B82F6?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://www.boot.dev/u/ding)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CDN](https://img.shields.io/badge/CDN-FF9900?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Discord Activities](https://img.shields.io/badge/Discord%20Activities-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 💻 Languages & Tools
 
