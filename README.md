@@ -19,33 +19,33 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ## 💻 Languages & Tools
 
 ### Languages
-![Python](https://shields.io)
-![Go](https://shields.io)
-![C](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Lua](https://shields.io)
-![SQL](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
-![Discord](https://shields.io)
-![Riot Games](https://shields.io)
-![FastAPI](https://shields.io)
-![PostgreSQL](https://shields.io)
-![SQLite](https://shields.io)
-![Goose](https://shields.io)
-![JWT](https://shields.io)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Goose](https://img.shields.io/badge/Goose-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Frontend
-![React](https://shields.io)
-![Vite](https://shields.io)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Other
-![Git](https://shields.io)
-![Ubuntu](https://shields.io)
-![Linux](https://shields.io)
-![VS Code](https://shields.io)
-![REST API](https://shields.io)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ## 💼 Looking For
 
