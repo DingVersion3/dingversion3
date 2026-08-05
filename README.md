@@ -9,7 +9,7 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
 - **[Shifting Grounds Tower Defense](https://github.com/DingVersion3/Shifting-Grounds-Tower-Defense)** — A multiplayer tower defense game built with `Pygame`, featuring a server-authoritative architecture, symmetric mirrored maps, tower syncing, and server-side wave management.
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1534248803060809899)
 - **[Brick Tamland Channel 5 Weather Bot](https://github.com/DingVersion3/weather-discord)** — A Discord weather bot with a news-anchor personality, built with `discord.py`.
 
 ## 🌱 Currently Learning
