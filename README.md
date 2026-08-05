@@ -53,10 +53,9 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 I'm looking for **Backend / Software Engineer roles** — I enjoy building reliable, well-structured systems and APIs, and I'm comfortable working across the stack when needed. Open to intern/junior/entry-level opportunities where I can keep growing.
 
 ## 📫 Get In Touch
-
-- **Email** jakewilk10@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/jake-wilkinson-3b07b89b/)**
-- **[Discord Server](https://discord.gg/Qu2Fp5h7VQ)**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakewilk10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-wilkinson-3b07b89b/)
+[![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qu2Fp5h7VQ)
 
 ---
 ⭐️ Thanks for stopping by!
