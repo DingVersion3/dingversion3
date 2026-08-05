@@ -18,13 +18,34 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 
 ## 💻 Languages & Tools
 
-**Languages:** Python · Go · C · HTML · CSS · Lua · SQL 
+### Languages
+![Python](https://shields.io)
+![Go](https://shields.io)
+![C](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Lua](https://shields.io)
+![SQL](https://shields.io)
 
-**Backend:** Discord · Riot API · FastAPI · PostgreSQL · SQLite · SQLC · Goose · JWT auth
+### Backend
+![Discord](https://shields.io)
+![Riot Games](https://shields.io)
+![FastAPI](https://shields.io)
+![PostgreSQL](https://shields.io)
+![SQLite](https://shields.io)
+![Goose](https://shields.io)
+![JWT](https://shields.io)
 
-**Frontend:** React · Vite
+### Frontend
+![React](https://shields.io)
+![Vite](https://shields.io)
 
-**Other:** Git · Linux (Ubuntu/WSL) · VS Code · REST API design
+### Other
+![Git](https://shields.io)
+![Ubuntu](https://shields.io)
+![Linux](https://shields.io)
+![VS Code](https://shields.io)
+![REST API](https://shields.io)
 
 ## 💼 Looking For
 
