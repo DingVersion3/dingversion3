@@ -5,7 +5,6 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ## 🔭 Currently Working On
 
 - **[ScuttleBuddy](https://github.com/DingVersion3/league-discord-bot)** — A League of Legends Discord bot for my friend group, built with `discord.py`, `SQLite`, Riot API, and OP.GG MCP Server. Features a performance scoring system, OP.GG integrations, betting, leaderboards, and trivia. Deployed on a Ubuntu VPS. Currently deep in testing phase/application phase for Riot API.
-- **[Shifting Grounds Tower Defense](https://github.com/DingVersion3/Shifting-Grounds-Tower-Defense)** — A multiplayer tower defense game built in Pygame, with a server-authoritative architecture, mirrored maps, tower syncing, and server-side wave management.
 
 ## 🌱 Currently Learning
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-3B82F6?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://www.boot.dev/u/ding)
