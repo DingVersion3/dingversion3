@@ -1,4 +1,4 @@
-# Hi, I'm Ding 👋
+# Hi, I'm Jake 👋
 
 Backend-leaning software engineer in the making — I learn by shipping full projects, not just tutorials. Currently working through [boot.dev](https://boot.dev) while building real tools for real users (my friend group's Discord server counts and no one can tell me otherwise 😎).
 
