@@ -6,8 +6,8 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 [![Scuttlebuddy.lol](https://img.shields.io/badge/Scuttlebuddy.lol-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white)](https://www.scuttlebuddy.lol)
 - **[ScuttleBuddy](https://github.com/DingVersion3/league-discord-bot)** — A League of Legends Discord bot for my friend group, built with `discord.py`, `SQLite`, Riot API, and OP.GG MCP Server. Features a performance scoring system, OP.GG integrations, betting, leaderboards, and trivia. Deployed on a Ubuntu VPS. Currently deep in testing phase/application phase for Riot API.
 
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
-- **[Shifting Grounds Tower Defense](https://github.com/DingVersion3/Shifting-Grounds-Tower-Defense)** — A multiplayer tower defense game built with `Pygame`, featuring a server-authoritative architecture, symmetric mirrored maps, tower syncing, and server-side wave management.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- **[Ding's Game of Life](https://github.com/DingVersion3/dings-game-of-life)** — A real-time multiplayer territory game for 2–4 players, inspired by Conway's Game of Life and Risk. Built with `Node`, `ws`, and vanilla JS on a canvas, with a server-authoritative simulation. Players grow wandering heads that claim ground by enclosing it, fight over borders, and spend banked gold in timed decision windows. Being built to run as a Discord Activity.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1534248803060809899)
 - **[Brick Tamland Channel 5 Weather Bot](https://github.com/DingVersion3/weather-discord)** — A Discord weather bot with a news-anchor personality, built with `discord.py`.
