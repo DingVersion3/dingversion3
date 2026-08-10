@@ -15,8 +15,6 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ## 🌱 Currently Learning
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-3B82F6?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://www.boot.dev/u/ding)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CDN](https://img.shields.io/badge/CDN-FF9900?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Discord Activities](https://img.shields.io/badge/Discord%20Activities-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -52,6 +50,8 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/CDN-FF9900?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 💼 Looking For
 
