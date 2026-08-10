@@ -50,8 +50,8 @@ Backend-leaning software engineer in the making — I learn by shipping full pro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/CDN-FF9900?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 💼 Looking For
 
