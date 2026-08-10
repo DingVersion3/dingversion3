@@ -36,12 +36,6 @@ Working through the backend track on [boot.dev](https://www.boot.dev/dashboard) 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DingVersion3&show_icons=true&hide_border=true&bg_color=EFE1C2&title_color=7A2E2E&icon_color=A6763B&text_color=2C1E14&hide=stars" alt="Jake's GitHub stats" />
-</p>
-
 ## Looking for
 
 Backend / Software Engineer roles (Python or Go). I like building things that run in production and stay up — real users, real edge cases, real memory leaks to chase down at 1am. Open to junior and entry-level positions.
