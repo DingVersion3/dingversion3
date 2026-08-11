@@ -70,10 +70,10 @@
 <text x="66" y="262" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="21" font-weight="700" fill="#241F1A">Ding&#8217;s Game of Life</text>
 <text x="560" y="158" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="14" fill="#1E6E64" letter-spacing="2.8" font-weight="700">NEXT QUEST</text>
 <path d="M 566 183 L 571 188 L 566 193 L 561 188 Z" fill="#1E6E64"/>
-<text x="582" y="194" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="21" font-weight="700" fill="#241F1A">Docker</text>
+<text x="582" y="194" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="21" font-weight="700" fill="#241F1A">Pub/Sub Architecture</text>
 <text x="560" y="232" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="14" fill="#1E6E64" letter-spacing="2.8" font-weight="700">LAST COMPLETED</text>
 <path d="M 566 257 L 571 262 L 566 267 L 561 262 Z" fill="#1E6E64"/>
-<text x="582" y="268" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="21" font-weight="700" fill="#241F1A">File Storage &#8212; S3</text>
+<text x="582" y="268" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif" font-size="21" font-weight="700" fill="#241F1A">Docker</text>
 <rect x="74" y="292" width="807" height="36" rx="4" fill="url(#sealGrad)"/>
 <rect x="78" y="296" width="799" height="28" rx="2" fill="none" stroke="#D6E8E2" stroke-width="0.8" opacity="0.4"/>
 <path d="M 94 306.0 L 98 310.0 L 94 314.0 L 90 310.0 Z" fill="#EAF6F2"/>
