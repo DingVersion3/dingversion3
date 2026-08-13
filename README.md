@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg?v=4" alt="Jake — Backend Engineer, Python & Go. Active quests: ScuttleBuddy, Brick Tamland, Ding's Game of Life. Next quest: Docker." width="100%" />
+  <img src="./banner.svg?v=4" alt="Jake — Backend Engineer, Python & Go. Active quests: ScuttleBuddy, Brick Tamland, Ding's Game of Life. Next quest: Pub/Sub Architecture." width="100%" />
 </p>
 
 I build backend systems and actually ship them — mostly Discord bots and game backends running in production on my own VPS, not tutorial projects that stop at "it works on my machine."
