@@ -7,7 +7,7 @@ I build backend systems and actually ship them — mostly Discord bots and game 
 ## Current Quests
 
 - **[ScuttleBuddy](https://github.com/DingVersion3/league-discord-bot)** — a League of Legends Discord bot for my friend group. Built with `discord.py` and `SQLite`, with a custom performance-scoring system, OP.GG tier-list integration via MCP, and a Riot production API key application in flight. Live at [scuttlebuddy.lol](https://www.scuttlebuddy.lol).
-- **[FiveM]([https://ding-s-creations.tebex.store])** — Former private FiveM developer bringing former scripts and new ideas to life! I have some free scripts here on my github and you can also go check out my tebex store vix hyperlink.
+- **[FiveM](https://ding-s-creations.tebex.store)** — Former private FiveM developer bringing former scripts and new ideas to life! I have some free scripts here on my github and you can also go check out my tebex store vix hyperlink.
 
 ## Stack
 
